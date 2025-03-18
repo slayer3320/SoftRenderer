@@ -1,0 +1,164 @@
+[
+{
+  "directory": "D:/program/cpp_program/SoftRenderer_v2.0/Build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/SoftRenderer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SoftRenderer.dir\\main.cpp.obj -c D:\\program\\cpp_program\\SoftRenderer_v2.0\\main.cpp",
+  "file": "D:/program/cpp_program/SoftRenderer_v2.0/main.cpp",
+  "output": "CMakeFiles/SoftRenderer.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/program/cpp_program/SoftRenderer_v2.0/Build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/SoftRenderer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SoftRenderer.dir\\src\\Color.cpp.obj -c D:\\program\\cpp_program\\SoftRenderer_v2.0\\src\\Color.cpp",
+  "file": "D:/program/cpp_program/SoftRenderer_v2.0/src/Color.cpp",
+  "output": "CMakeFiles/SoftRenderer.dir/src/Color.cpp.obj"
+},
+{
+  "directory": "D:/program/cpp_program/SoftRenderer_v2.0/Build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/SoftRenderer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SoftRenderer.dir\\src\\Scene.cpp.obj -c D:\\program\\cpp_program\\SoftRenderer_v2.0\\src\\Scene.cpp",
+  "file": "D:/program/cpp_program/SoftRenderer_v2.0/src/Scene.cpp",
+  "output": "CMakeFiles/SoftRenderer.dir/src/Scene.cpp.obj"
+},
+{
+  "directory": "D:/program/cpp_program/SoftRenderer_v2.0/Build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/SoftRenderer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SoftRenderer.dir\\src\\component\\Component.cpp.obj -c D:\\program\\cpp_program\\SoftRenderer_v2.0\\src\\component\\Component.cpp",
+  "file": "D:/program/cpp_program/SoftRenderer_v2.0/src/component/Component.cpp",
+  "output": "CMakeFiles/SoftRenderer.dir/src/component/Component.cpp.obj"
+},
+{
+  "directory": "D:/program/cpp_program/SoftRenderer_v2.0/Build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/SoftRenderer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SoftRenderer.dir\\src\\component\\Mesh.cpp.obj -c D:\\program\\cpp_program\\SoftRenderer_v2.0\\src\\component\\Mesh.cpp",
+  "file": "D:/program/cpp_program/SoftRenderer_v2.0/src/component/Mesh.cpp",
+  "output": "CMakeFiles/SoftRenderer.dir/src/component/Mesh.cpp.obj"
+},
+{
+  "directory": "D:/program/cpp_program/SoftRenderer_v2.0/Build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/SoftRenderer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SoftRenderer.dir\\src\\component\\MeshRenderer.cpp.obj -c D:\\program\\cpp_program\\SoftRenderer_v2.0\\src\\component\\MeshRenderer.cpp",
+  "file": "D:/program/cpp_program/SoftRenderer_v2.0/src/component/MeshRenderer.cpp",
+  "output": "CMakeFiles/SoftRenderer.dir/src/component/MeshRenderer.cpp.obj"
+},
+{
+  "directory": "D:/program/cpp_program/SoftRenderer_v2.0/Build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/SoftRenderer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SoftRenderer.dir\\src\\component\\Renderer.cpp.obj -c D:\\program\\cpp_program\\SoftRenderer_v2.0\\src\\component\\Renderer.cpp",
+  "file": "D:/program/cpp_program/SoftRenderer_v2.0/src/component/Renderer.cpp",
+  "output": "CMakeFiles/SoftRenderer.dir/src/component/Renderer.cpp.obj"
+},
+{
+  "directory": "D:/program/cpp_program/SoftRenderer_v2.0/Build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/SoftRenderer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SoftRenderer.dir\\src\\component\\Transform.cpp.obj -c D:\\program\\cpp_program\\SoftRenderer_v2.0\\src\\component\\Transform.cpp",
+  "file": "D:/program/cpp_program/SoftRenderer_v2.0/src/component/Transform.cpp",
+  "output": "CMakeFiles/SoftRenderer.dir/src/component/Transform.cpp.obj"
+},
+{
+  "directory": "D:/program/cpp_program/SoftRenderer_v2.0/Build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/SoftRenderer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SoftRenderer.dir\\src\\gameobject\\Camera.cpp.obj -c D:\\program\\cpp_program\\SoftRenderer_v2.0\\src\\gameobject\\Camera.cpp",
+  "file": "D:/program/cpp_program/SoftRenderer_v2.0/src/gameobject/Camera.cpp",
+  "output": "CMakeFiles/SoftRenderer.dir/src/gameobject/Camera.cpp.obj"
+},
+{
+  "directory": "D:/program/cpp_program/SoftRenderer_v2.0/Build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/SoftRenderer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SoftRenderer.dir\\src\\gameobject\\GameObject.cpp.obj -c D:\\program\\cpp_program\\SoftRenderer_v2.0\\src\\gameobject\\GameObject.cpp",
+  "file": "D:/program/cpp_program/SoftRenderer_v2.0/src/gameobject/GameObject.cpp",
+  "output": "CMakeFiles/SoftRenderer.dir/src/gameobject/GameObject.cpp.obj"
+},
+{
+  "directory": "D:/program/cpp_program/SoftRenderer_v2.0/Build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/SoftRenderer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SoftRenderer.dir\\src\\gameobject\\Light.cpp.obj -c D:\\program\\cpp_program\\SoftRenderer_v2.0\\src\\gameobject\\Light.cpp",
+  "file": "D:/program/cpp_program/SoftRenderer_v2.0/src/gameobject/Light.cpp",
+  "output": "CMakeFiles/SoftRenderer.dir/src/gameobject/Light.cpp.obj"
+},
+{
+  "directory": "D:/program/cpp_program/SoftRenderer_v2.0/Build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/SoftRenderer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SoftRenderer.dir\\src\\math\\MathUtil.cpp.obj -c D:\\program\\cpp_program\\SoftRenderer_v2.0\\src\\math\\MathUtil.cpp",
+  "file": "D:/program/cpp_program/SoftRenderer_v2.0/src/math/MathUtil.cpp",
+  "output": "CMakeFiles/SoftRenderer.dir/src/math/MathUtil.cpp.obj"
+},
+{
+  "directory": "D:/program/cpp_program/SoftRenderer_v2.0/Build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/SoftRenderer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SoftRenderer.dir\\src\\math\\MinHeap.cpp.obj -c D:\\program\\cpp_program\\SoftRenderer_v2.0\\src\\math\\MinHeap.cpp",
+  "file": "D:/program/cpp_program/SoftRenderer_v2.0/src/math/MinHeap.cpp",
+  "output": "CMakeFiles/SoftRenderer.dir/src/math/MinHeap.cpp.obj"
+},
+{
+  "directory": "D:/program/cpp_program/SoftRenderer_v2.0/Build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/SoftRenderer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SoftRenderer.dir\\src\\pipeline\\ApplicationStage.cpp.obj -c D:\\program\\cpp_program\\SoftRenderer_v2.0\\src\\pipeline\\ApplicationStage.cpp",
+  "file": "D:/program/cpp_program/SoftRenderer_v2.0/src/pipeline/ApplicationStage.cpp",
+  "output": "CMakeFiles/SoftRenderer.dir/src/pipeline/ApplicationStage.cpp.obj"
+},
+{
+  "directory": "D:/program/cpp_program/SoftRenderer_v2.0/Build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/SoftRenderer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SoftRenderer.dir\\src\\pipeline\\Buffer.cpp.obj -c D:\\program\\cpp_program\\SoftRenderer_v2.0\\src\\pipeline\\Buffer.cpp",
+  "file": "D:/program/cpp_program/SoftRenderer_v2.0/src/pipeline/Buffer.cpp",
+  "output": "CMakeFiles/SoftRenderer.dir/src/pipeline/Buffer.cpp.obj"
+},
+{
+  "directory": "D:/program/cpp_program/SoftRenderer_v2.0/Build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/SoftRenderer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SoftRenderer.dir\\src\\pipeline\\GeometricStage.cpp.obj -c D:\\program\\cpp_program\\SoftRenderer_v2.0\\src\\pipeline\\GeometricStage.cpp",
+  "file": "D:/program/cpp_program/SoftRenderer_v2.0/src/pipeline/GeometricStage.cpp",
+  "output": "CMakeFiles/SoftRenderer.dir/src/pipeline/GeometricStage.cpp.obj"
+},
+{
+  "directory": "D:/program/cpp_program/SoftRenderer_v2.0/Build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/SoftRenderer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SoftRenderer.dir\\src\\pipeline\\RasterizationStage.cpp.obj -c D:\\program\\cpp_program\\SoftRenderer_v2.0\\src\\pipeline\\RasterizationStage.cpp",
+  "file": "D:/program/cpp_program/SoftRenderer_v2.0/src/pipeline/RasterizationStage.cpp",
+  "output": "CMakeFiles/SoftRenderer.dir/src/pipeline/RasterizationStage.cpp.obj"
+},
+{
+  "directory": "D:/program/cpp_program/SoftRenderer_v2.0/Build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/SoftRenderer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SoftRenderer.dir\\src\\pipeline\\RenderPipeline.cpp.obj -c D:\\program\\cpp_program\\SoftRenderer_v2.0\\src\\pipeline\\RenderPipeline.cpp",
+  "file": "D:/program/cpp_program/SoftRenderer_v2.0/src/pipeline/RenderPipeline.cpp",
+  "output": "CMakeFiles/SoftRenderer.dir/src/pipeline/RenderPipeline.cpp.obj"
+},
+{
+  "directory": "D:/program/cpp_program/SoftRenderer_v2.0/Build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/SoftRenderer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SoftRenderer.dir\\src\\shader\\Shader.cpp.obj -c D:\\program\\cpp_program\\SoftRenderer_v2.0\\src\\shader\\Shader.cpp",
+  "file": "D:/program/cpp_program/SoftRenderer_v2.0/src/shader/Shader.cpp",
+  "output": "CMakeFiles/SoftRenderer.dir/src/shader/Shader.cpp.obj"
+},
+{
+  "directory": "D:/program/cpp_program/SoftRenderer_v2.0/Build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/SoftRenderer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SoftRenderer.dir\\src\\ui.cpp.obj -c D:\\program\\cpp_program\\SoftRenderer_v2.0\\src\\ui.cpp",
+  "file": "D:/program/cpp_program/SoftRenderer_v2.0/src/ui.cpp",
+  "output": "CMakeFiles/SoftRenderer.dir/src/ui.cpp.obj"
+},
+{
+  "directory": "D:/program/cpp_program/SoftRenderer_v2.0/Build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/SoftRenderer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SoftRenderer.dir\\imgui\\imgui.cpp.obj -c D:\\program\\cpp_program\\SoftRenderer_v2.0\\imgui\\imgui.cpp",
+  "file": "D:/program/cpp_program/SoftRenderer_v2.0/imgui/imgui.cpp",
+  "output": "CMakeFiles/SoftRenderer.dir/imgui/imgui.cpp.obj"
+},
+{
+  "directory": "D:/program/cpp_program/SoftRenderer_v2.0/Build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/SoftRenderer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SoftRenderer.dir\\imgui\\imgui_demo.cpp.obj -c D:\\program\\cpp_program\\SoftRenderer_v2.0\\imgui\\imgui_demo.cpp",
+  "file": "D:/program/cpp_program/SoftRenderer_v2.0/imgui/imgui_demo.cpp",
+  "output": "CMakeFiles/SoftRenderer.dir/imgui/imgui_demo.cpp.obj"
+},
+{
+  "directory": "D:/program/cpp_program/SoftRenderer_v2.0/Build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/SoftRenderer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SoftRenderer.dir\\imgui\\imgui_draw.cpp.obj -c D:\\program\\cpp_program\\SoftRenderer_v2.0\\imgui\\imgui_draw.cpp",
+  "file": "D:/program/cpp_program/SoftRenderer_v2.0/imgui/imgui_draw.cpp",
+  "output": "CMakeFiles/SoftRenderer.dir/imgui/imgui_draw.cpp.obj"
+},
+{
+  "directory": "D:/program/cpp_program/SoftRenderer_v2.0/Build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/SoftRenderer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SoftRenderer.dir\\imgui\\imgui_impl_dx11.cpp.obj -c D:\\program\\cpp_program\\SoftRenderer_v2.0\\imgui\\imgui_impl_dx11.cpp",
+  "file": "D:/program/cpp_program/SoftRenderer_v2.0/imgui/imgui_impl_dx11.cpp",
+  "output": "CMakeFiles/SoftRenderer.dir/imgui/imgui_impl_dx11.cpp.obj"
+},
+{
+  "directory": "D:/program/cpp_program/SoftRenderer_v2.0/Build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/SoftRenderer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SoftRenderer.dir\\imgui\\imgui_impl_win32.cpp.obj -c D:\\program\\cpp_program\\SoftRenderer_v2.0\\imgui\\imgui_impl_win32.cpp",
+  "file": "D:/program/cpp_program/SoftRenderer_v2.0/imgui/imgui_impl_win32.cpp",
+  "output": "CMakeFiles/SoftRenderer.dir/imgui/imgui_impl_win32.cpp.obj"
+},
+{
+  "directory": "D:/program/cpp_program/SoftRenderer_v2.0/Build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/SoftRenderer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SoftRenderer.dir\\imgui\\imgui_tables.cpp.obj -c D:\\program\\cpp_program\\SoftRenderer_v2.0\\imgui\\imgui_tables.cpp",
+  "file": "D:/program/cpp_program/SoftRenderer_v2.0/imgui/imgui_tables.cpp",
+  "output": "CMakeFiles/SoftRenderer.dir/imgui/imgui_tables.cpp.obj"
+},
+{
+  "directory": "D:/program/cpp_program/SoftRenderer_v2.0/Build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/SoftRenderer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SoftRenderer.dir\\imgui\\imgui_widgets.cpp.obj -c D:\\program\\cpp_program\\SoftRenderer_v2.0\\imgui\\imgui_widgets.cpp",
+  "file": "D:/program/cpp_program/SoftRenderer_v2.0/imgui/imgui_widgets.cpp",
+  "output": "CMakeFiles/SoftRenderer.dir/imgui/imgui_widgets.cpp.obj"
+}
+]

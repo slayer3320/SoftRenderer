@@ -1,0 +1,53 @@
+Date : 2024-05-20 20:01:48
+Directory : d:\program\cpp_program\SoftRenderer_v2.0\include
+Total : 23 files,  716 codes, 87 comments, 195 blanks, all 998 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| C++      |         23 |        716 |         87 |        195 |        998 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                             | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                |         23 |        716 |         87 |        195 |        998 |
+| . (Files)                                                                        |          4 |         81 |          0 |         19 |        100 |
+| component                                                                        |          5 |        107 |         36 |         35 |        178 |
+| gameobject                                                                       |          3 |         71 |         18 |         25 |        114 |
+| math                                                                             |          4 |        257 |          1 |         56 |        314 |
+| pipeline                                                                         |          5 |        115 |         15 |         40 |        170 |
+| shader                                                                           |          2 |         85 |         17 |         20 |        122 |
++----------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                         | language | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| d:\program\cpp_program\SoftRenderer_v2.0\include\Color.hpp                       | C++      |         19 |          0 |          5 |         24 |
+| d:\program\cpp_program\SoftRenderer_v2.0\include\Scene.hpp                       | C++      |         20 |          0 |          6 |         26 |
+| d:\program\cpp_program\SoftRenderer_v2.0\include\Singleton.hpp                   | C++      |         24 |          0 |          6 |         30 |
+| d:\program\cpp_program\SoftRenderer_v2.0\include\component\Component.hpp         | C++      |         12 |          1 |          5 |         18 |
+| d:\program\cpp_program\SoftRenderer_v2.0\include\component\Mesh.hpp              | C++      |         50 |          3 |         13 |         66 |
+| d:\program\cpp_program\SoftRenderer_v2.0\include\component\MeshRenderer.hpp      | C++      |         21 |          0 |          9 |         30 |
+| d:\program\cpp_program\SoftRenderer_v2.0\include\component\Renderer.hpp          | C++      |          9 |         32 |          4 |         45 |
+| d:\program\cpp_program\SoftRenderer_v2.0\include\component\Transform.hpp         | C++      |         15 |          0 |          4 |         19 |
+| d:\program\cpp_program\SoftRenderer_v2.0\include\gameobject\Camera.hpp           | C++      |         14 |         18 |          7 |         39 |
+| d:\program\cpp_program\SoftRenderer_v2.0\include\gameobject\GameObject.hpp       | C++      |         38 |          0 |         13 |         51 |
+| d:\program\cpp_program\SoftRenderer_v2.0\include\gameobject\Light.hpp            | C++      |         19 |          0 |          5 |         24 |
+| d:\program\cpp_program\SoftRenderer_v2.0\include\math\MathUtil.hpp               | C++      |         12 |          0 |          9 |         21 |
+| d:\program\cpp_program\SoftRenderer_v2.0\include\math\Matrix.hpp                 | C++      |         83 |          0 |         15 |         98 |
+| d:\program\cpp_program\SoftRenderer_v2.0\include\math\MinHeap.hpp                | C++      |         22 |          0 |          5 |         27 |
+| d:\program\cpp_program\SoftRenderer_v2.0\include\math\Vector.hpp                 | C++      |        140 |          1 |         27 |        168 |
+| d:\program\cpp_program\SoftRenderer_v2.0\include\pipeline\ApplicationStage.hpp   | C++      |         15 |          6 |          4 |         25 |
+| d:\program\cpp_program\SoftRenderer_v2.0\include\pipeline\Buffer.hpp             | C++      |         24 |          0 |          9 |         33 |
+| d:\program\cpp_program\SoftRenderer_v2.0\include\pipeline\GeometricStage.hpp     | C++      |         22 |          5 |          5 |         32 |
+| d:\program\cpp_program\SoftRenderer_v2.0\include\pipeline\RasterizationStage.hpp | C++      |         17 |          4 |          7 |         28 |
+| d:\program\cpp_program\SoftRenderer_v2.0\include\pipeline\RenderPipeline.hpp     | C++      |         37 |          0 |         15 |         52 |
+| d:\program\cpp_program\SoftRenderer_v2.0\include\shader\Shader.hpp               | C++      |         30 |          0 |          9 |         39 |
+| d:\program\cpp_program\SoftRenderer_v2.0\include\shader\ShaderData.hpp           | C++      |         55 |         17 |         11 |         83 |
+| d:\program\cpp_program\SoftRenderer_v2.0\include\ui.hpp                          | C++      |         18 |          0 |          2 |         20 |
+| Total                                                                            |          |        716 |         87 |        195 |        998 |
++----------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
